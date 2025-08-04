@@ -1,12 +1,9 @@
-# MongoDB Query Practice
+# MongoDB Lab 20 – Basic Queries and Aggregation
 
-This repository contains MongoDB queries for basic CRUD and aggregation operations.
+This project demonstrates basic MongoDB operations using the `mongosh` shell. It includes creating collections, inserting documents, running queries, updating, deleting, sorting, and using aggregation pipelines.
 
-## 🚀 How to Use
+## 🔧 Prerequisites
 
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-```
+- [MongoDB](https://www.mongodb.com/try/download/community) installed locally
+- `mongosh` (MongoDB Shell)
+- A database named `practiceDB` (can be created automatically during the first insert)
